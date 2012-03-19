@@ -4,4 +4,4 @@ Patches the `heroku create` command to make it default to the cedar stack. Nasty
 
 ## Installation
 
-    heroku plugins install git://github.com/lstoll/heroku-default-cedar.git
+    heroku plugins:install git://github.com/lstoll/heroku-default-cedar.git
